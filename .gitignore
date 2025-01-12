@@ -1,0 +1,9 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore large data files
+data/raw/
