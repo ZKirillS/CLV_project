@@ -6,13 +6,13 @@ from random import choice, randint, uniform
 fake = Faker()
 
 amazon_data = pd.read_csv('C://Users//chekf//OneDrive//Документы//Vis DI-BOOTCAMP//Final Project//Data_amazon_products.csv')
-category_group = amazon_data.groupby('breadCrumbs')['title'].unique().to_dict()
+category_group = amazon_data.groupby('Category')['title'].unique().to_dict()
 
 payment_methods = ['Credit Card','Cash','Debit Card','PayPal']
 countries = ['USA','Canada','UK']
 
-num_clients = 10000
-max_transaction_per_client = 25
+num_clients = 2500
+max_transaction_per_client = 15
 
 def generate_client(num_clients):
     clients = []
