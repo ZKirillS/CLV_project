@@ -1,0 +1,11 @@
+Grocery:
+https://www.amazon.co.uk/s?k=chocolate&crid=JSZ51LJV9T30&sprefix=chocola%2Caps%2C131&ref=nb_sb_ss_ts-doa-p_2_7
+
+Home:
+https://www.amazon.co.uk/s?k=bulbs&crid=1E7DF9FBUQAJI&sprefix=bulb%2Caps%2C127&ref=nb_sb_ss_ts-doa-p_2_4
+
+Pharmacy:
+https://www.amazon.co.uk/s?k=multivitamins&crid=ROLW3D04KOWU&qid=1736946380&sprefix=multivitamins%2Caps%2C136&xpid=zghYahM5ArC4t&ref=sr_pg_1
+
+Electronics:
+https://www.amazon.co.uk/s?k=laptops&crid=3CRGAZWXHBBJZ&sprefix=laptops%2Caps%2C134&ref=nb_sb_noss_1
